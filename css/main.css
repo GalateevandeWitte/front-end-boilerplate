@@ -1,4 +1,20 @@
 /*This file contains all colors variables.*/
+/* line 1, ../src/sass/global/_default.scss */
+html {
+  box-sizing: border-box;
+}
+
+/* line 5, ../src/sass/global/_default.scss */
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+/* line 9, ../src/sass/global/_default.scss */
+img {
+  max-width: 95%;
+  margin: 1em auto;
+}
+
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
